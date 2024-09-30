@@ -1,4 +1,6 @@
-int main (){
+int main ()
+{
   add();
-  sum();
+  sub();
+  mul();
 }
