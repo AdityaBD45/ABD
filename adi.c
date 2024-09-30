@@ -1,2 +1,4 @@
 int main (){
+  add();
+  sum();
 }
