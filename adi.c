@@ -1,6 +1,7 @@
 int main ()
 {
-  add();
+	add();
+	divide();
   sub();
   mul();
 }
